@@ -1,0 +1,2 @@
+Hello There, I just enjoy writing.
+We are writing to a text file.This is just a simple example.
